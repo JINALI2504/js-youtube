@@ -18,3 +18,21 @@ let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
+/*operations*/
+let value= 3
+let negValue= -value
+console.log(negValue);
+
+console.log("1" +2+2);
+console.log(1+2+"2");
+console.log("1" + "2");
+
+console.log(3 + 4 * 5 % 6);
+
+console.log(+true);
+console.log(+"");
+
+let gameCounter = 100
+//gameCounter++
+++gameCounter
+console.log(gameCounter);
